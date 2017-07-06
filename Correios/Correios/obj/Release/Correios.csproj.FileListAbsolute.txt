@@ -1,0 +1,8 @@
+c:\users\rapha\onedrive\documentos\visual studio 2017\Projects\Correios\Correios\bin\Release\Correios.exe.config
+c:\users\rapha\onedrive\documentos\visual studio 2017\Projects\Correios\Correios\bin\Release\Correios.exe
+c:\users\rapha\onedrive\documentos\visual studio 2017\Projects\Correios\Correios\bin\Release\Correios.pdb
+c:\users\rapha\onedrive\documentos\visual studio 2017\Projects\Correios\Correios\obj\Release\Correios.Form1.resources
+c:\users\rapha\onedrive\documentos\visual studio 2017\Projects\Correios\Correios\obj\Release\Correios.Properties.Resources.resources
+c:\users\rapha\onedrive\documentos\visual studio 2017\Projects\Correios\Correios\obj\Release\Correios.csproj.GenerateResource.Cache
+c:\users\rapha\onedrive\documentos\visual studio 2017\Projects\Correios\Correios\obj\Release\Correios.exe
+c:\users\rapha\onedrive\documentos\visual studio 2017\Projects\Correios\Correios\obj\Release\Correios.pdb
