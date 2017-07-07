@@ -6,3 +6,4 @@ c:\users\rapha\onedrive\documentos\visual studio 2017\Projects\Correios\Correios
 c:\users\rapha\onedrive\documentos\visual studio 2017\Projects\Correios\Correios\obj\Release\Correios.csproj.GenerateResource.Cache
 c:\users\rapha\onedrive\documentos\visual studio 2017\Projects\Correios\Correios\obj\Release\Correios.exe
 c:\users\rapha\onedrive\documentos\visual studio 2017\Projects\Correios\Correios\obj\Release\Correios.pdb
+C:\Users\rapha\OneDrive\Documentos\Visual Studio 2017\Projects\Correios\Correios\obj\Release\Correios.csprojResolveAssemblyReference.cache

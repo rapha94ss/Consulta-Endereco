@@ -72,13 +72,14 @@
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(370, 261);
+            this.ClientSize = new System.Drawing.Size(336, 261);
             this.Controls.Add(this.btnConsulta);
             this.Controls.Add(this.lblResposta);
             this.Controls.Add(this.txtCep);
             this.Controls.Add(this.label1);
             this.Name = "Form1";
-            this.Text = "Form1";
+            this.Text = "Consulta de Endereço";
+            this.Load += new System.EventHandler(this.Form1_Load);
             this.ResumeLayout(false);
             this.PerformLayout();
 
