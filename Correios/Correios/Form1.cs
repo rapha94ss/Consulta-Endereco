@@ -19,6 +19,8 @@ namespace Correios
 
         private void btnConsulta_Click(object sender, EventArgs e)
         {
+            lblResposta.Text = "";
+            lblResposta.Text = "Buscando dados...";
             try
             {
                 var correio = new Correio.AtendeClienteClient();
@@ -33,6 +35,11 @@ namespace Correios
                 lblResposta.Text = "Erro ao efetuar consulta\n";
                  
             }
+        }
+
+        private void Form1_Load(object sender, EventArgs e)
+        {
+            
         }
     }
 }
